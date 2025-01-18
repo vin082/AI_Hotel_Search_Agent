@@ -2,7 +2,7 @@
 Search the hotel using AI based on your preferences
 A hotel searching app to find the best deals for your stay.
 
-Step to run:
+Steps to run:
 
 pip install -r requirements.txt
 
